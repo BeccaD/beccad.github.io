@@ -86,6 +86,16 @@ img {
 	max-width: 500px;
 }
 
+footer {
+	font-weight: bold;
+	font-size: 18px;
+	text-align: center;
+	padding: 2px;
+	font-family: 'Cinzel', serif;
+	color: #ffffff;
+	margin: 0px auto;
+	background-color: #293434;
+}
    @media (max-width: 500px) {
       body {
         background: #ffffff;
