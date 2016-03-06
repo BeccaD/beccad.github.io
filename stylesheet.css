@@ -115,11 +115,11 @@ footer {
         padding: 5px;
       }
       img {
-      	max-width: 320px;
+      	max-width: 300px;
       	display: block;
-      	margin: auto;
+      	margin: 0px auto;
       	padding: 5px;
-    	vertical-align: text-top;
+    	text-align: center;
 }
       }
       p {
