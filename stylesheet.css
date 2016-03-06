@@ -98,5 +98,7 @@ img {
         padding: 5px;
       }
       img {
-      	max-width: 300px;
+      	max-width: 320px;
+      	padding: 5px;
+      	float: center;
       }
