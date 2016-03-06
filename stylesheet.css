@@ -97,11 +97,12 @@ img {
         display: block;
         padding: 5px;
       }
-      img {
-      	max-width: 320px;
+      img.center {
+      	max-width: 330px;
       	display: block;
       	margin-left: auto;
       	margin-right: auto;
+      	padding: 5px;
       }
       p {
       	padding: 5px;
