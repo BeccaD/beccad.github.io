@@ -1,6 +1,6 @@
 body {
 	background-color: #ffffff;
-	max-width: 800px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
@@ -32,6 +32,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Cinzel', serif;
+    font-size: 20px;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -66,7 +67,7 @@ h3 {
 }
 
 p {
-	font-size: 15px;
+	font-size: 17px;
 	text-align: justify;
 	color: #293434;
 	font-family: 'Playfair Display', serif;
@@ -75,8 +76,8 @@ p {
 }
 
 img {
-	max-width: 500px;
 	padding: 10px 10px 5px 0px;
 	border-radius: 30px;
 	float: left;
+	max-width: 500px;
 }
