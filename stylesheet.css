@@ -97,7 +97,7 @@ img {
         display: block;
         padding: 5px;
       }
-      img.center {
+      img {
       	max-width: 330px;
       	display: block;
       	margin-left: auto;
