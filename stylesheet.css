@@ -79,6 +79,5 @@ img {
 	padding: 10px 10px 5px 0px;
 	border-radius: 30px;
 	float: left;
-	width: 100%;
-	height: auto;
+	max-width: 500px;
 }
