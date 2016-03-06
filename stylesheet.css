@@ -97,6 +97,6 @@ img {
         display: block;
         padding: 5px;
       }
-      img {
+      picture {
       	max-width: 500px;
       }
