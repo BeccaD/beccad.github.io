@@ -1,11 +1,11 @@
 body {
 	background-color: #ffffff;
-	max-width: 900px;
+	max-width: 800px;
 	margin: 0 auto;
 }
 
 h1 {
-	font-size: 92px;
+	font-size: 88px;
 	color: #293434;
 	font-family: 'Cinzel', serif;
 	text-align: center; 
@@ -79,5 +79,6 @@ img {
 	padding: 10px 10px 5px 0px;
 	border-radius: 30px;
 	float: left;
-	max-width: 500px;
+	width: 100%;
+	height: auto;
 }
