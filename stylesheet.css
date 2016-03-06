@@ -86,13 +86,16 @@ img {
 	max-width: 500px;
 }
 
-footer {
+h4 {
 	font-weight: bold;
 	font-size: 18px;
 	text-align: center;
 	padding: 2px;
 	font-family: 'Cinzel', serif;
-	color: #ffffff;
+	color: #ffffff;	
+}
+
+footer {
 	margin: 0px auto;
 	background-color: #293434;
 }
